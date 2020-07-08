@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My favourite things</title>
+<head>
+
+<body>
+<h1>The bigger picture</h1>
+<p>Welcome to my other webpage.
+Here I will list a few things that matter to me,especially my favourites.
+Ever since I was a kid I have had a lot of experiences and some of them are my likes up to date.
+</p>
+<p>Here is a list of my favourite things,</p>
+<ul>
+    <li>Aviation-Id really like to become a pilot</li>
+    <li>Music-I like listening to music during leisure</li>
+</ul>
+
+<p>I also have friends.Very many in fact.Just to list a few,</p>
+<ol>
+    <li>Barax aka Mwithiramu</li>
+    <li>Peter and his brother Mark</li>
+    <li>Leon and Alpha</li>
+    <li>Zac aka Huawei guy</li>
+    <li>Mike</li>
+    <li>Kiash and Eddie</li>
+    <li>Mark and Brian Mahinda</li>
+</ol>
+</body>
+</html>
